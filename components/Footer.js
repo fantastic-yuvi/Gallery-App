@@ -12,19 +12,19 @@ function Footer() {
                 
             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/fantastic-yuvi">
               <FaGithub />
-              <span classname="sr-only">Github</span>
+              <span class="sr-only">Github</span>
             </a>
             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-pink-600 hover:bg-pink-600 rounded-full hover:text-white transition-colors duration-300" href="https://www.instagram.com/fantastic_yuvi/">
               <BsInstagram />
-              <span classname="sr-only">Instagram</span>
+              <span classn="sr-only">Instagram</span>
             </a>
             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="https://www.linkedin.com/in/yuvraj-singh-gangwar-b614a822b/">
               <BsLinkedin />
-              <span classname="sr-only">Linkedin</span>  
+              <span class="sr-only">Linkedin</span>  
             </a>
             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-emerald-500 rounded-full hover:text-white transition-colors duration-300" href="https://mailto:ysgangwarfbd2001@gmail.com">
               <FaRegEnvelope />
-              <span classname="sr-only">Email</span>  
+              <span class="sr-only">Email</span>  
             </a>
              
             </div>
