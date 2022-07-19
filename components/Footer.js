@@ -16,7 +16,7 @@ function Footer() {
             </a>
             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-pink-600 hover:bg-pink-600 rounded-full hover:text-white transition-colors duration-300" href="https://www.instagram.com/fantastic_yuvi/">
               <BsInstagram />
-              <span classn="sr-only">Instagram</span>
+              <span class="sr-only">Instagram</span>
             </a>
             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="https://www.linkedin.com/in/yuvraj-singh-gangwar-b614a822b/">
               <BsLinkedin />
